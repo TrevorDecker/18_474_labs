@@ -1,0 +1,1 @@
+CMU's 18-474 embeded contorls labs completed by Trevor Decker and Ian Hartwig 
